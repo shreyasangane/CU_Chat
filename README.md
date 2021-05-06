@@ -1,4 +1,4 @@
-# skype_clone
+# CU Chat
 
 A new Flutter project.
 
