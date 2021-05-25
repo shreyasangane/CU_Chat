@@ -1,16 +1,42 @@
-# CU Chat
+# CU Chat Application
 
-A new Flutter project.
+This Android/IOS mobile application, allow user to communicate with other registered users.
+This application requires active internet connection to send texts and to make video call.
+Services offered by this application are free of cost.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Login Page
+![](../master/screnpic/1.jpeg)
+![](../master/screnpic/2.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+### Search Registered User Screen
+![](../master/screnpic/3.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Active/Communicated With Users Screen
+![](../master/screnpic/4(2).jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Chat Screen
+![](../master/screnpic/5.jpeg)
+
+### Video Call Screen
+![](../master/screnpic/6.jpeg)
+
+### Call Log Screen
+![](../master/screnpic/7.jpeg)
+
+
+### Delete Log Screen
+![](../master/screnpic/8.jpeg)
+
+### Log Out Screen
+![](../master/screnpic/9.jpeg)
+
+
+
+
+
+
+
+
+
+
