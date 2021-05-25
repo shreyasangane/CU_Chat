@@ -6,30 +6,30 @@ Services offered by this application are free of cost.
 
 
 ### Login Page
-![](../master/screnpic/1.jpeg)
-![](../master/screnpic/2.jpeg)
+![](../master/screenpic/1.jpeg)
+![](../master/screenpic/2.jpeg)
 
 ### Search Registered User Screen
-![](../master/screnpic/3.jpeg)
+![](../master/screenpic/3.jpeg)
 
 ### Active/Communicated With Users Screen
-![](../master/screnpic/4(2).jpeg)
+![](../master/screenpic/4(2).jpeg)
 
 ### Chat Screen
-![](../master/screnpic/5.jpeg)
+![](../master/screenpic/5.jpeg)
 
 ### Video Call Screen
-![](../master/screnpic/6.jpeg)
+![](../master/screenpic/6.jpeg)
 
 ### Call Log Screen
-![](../master/screnpic/7.jpeg)
+![](../master/screenpic/7.jpeg)
 
 
 ### Delete Log Screen
-![](../master/screnpic/8.jpeg)
+![](../master/screenpic/8.jpeg)
 
 ### Log Out Screen
-![](../master/screnpic/9.jpeg)
+![](../master/screenpic/9.jpeg)
 
 
 
